@@ -45,6 +45,7 @@ A beautiful and responsive travel agency website built with pure HTML and CSS. E
 -Replace images in the multimédia/Images/ folder
 -Modify package pricing and descriptions
 -Add new travel packages as needed
+-You can edit your own links on the footer by updating the social media links in the footer section
 
 Note: This is a frontend-only project. For full booking functionality, you would need to integrate with a backend service and payment processing system.
 
